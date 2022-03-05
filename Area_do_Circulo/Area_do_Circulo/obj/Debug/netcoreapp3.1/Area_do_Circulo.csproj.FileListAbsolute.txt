@@ -1,0 +1,14 @@
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\bin\Debug\netcoreapp3.1\Area_do_Circulo.exe
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\bin\Debug\netcoreapp3.1\Area_do_Circulo.deps.json
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\bin\Debug\netcoreapp3.1\Area_do_Circulo.runtimeconfig.json
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\bin\Debug\netcoreapp3.1\Area_do_Circulo.runtimeconfig.dev.json
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\bin\Debug\netcoreapp3.1\Area_do_Circulo.dll
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\bin\Debug\netcoreapp3.1\Area_do_Circulo.pdb
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\obj\Debug\netcoreapp3.1\Area_do_Circulo.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\obj\Debug\netcoreapp3.1\Area_do_Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\obj\Debug\netcoreapp3.1\Area_do_Circulo.AssemblyInfoInputs.cache
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\obj\Debug\netcoreapp3.1\Area_do_Circulo.AssemblyInfo.cs
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\obj\Debug\netcoreapp3.1\Area_do_Circulo.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\obj\Debug\netcoreapp3.1\Area_do_Circulo.dll
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\obj\Debug\netcoreapp3.1\Area_do_Circulo.pdb
+C:\Users\erick\source\repos\Area_do_Circulo\Area_do_Circulo\obj\Debug\netcoreapp3.1\Area_do_Circulo.genruntimeconfig.cache
